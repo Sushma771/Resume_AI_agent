@@ -1,0 +1,13 @@
+streamlit
+openai
+pdfplumber
+python-docx
+pandas
+tqdm
+regex
+python-multipart
+sentence-transformers
+faiss-cpu
+pinecone-client
+chromadb
+python-dotenv
